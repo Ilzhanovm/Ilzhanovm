@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Ilzhanovm
-- 👀 I’m interested in NLP and machine learning.
 - 📫 Reach me via ilzhanovm@gmail.com
 
 <!---
